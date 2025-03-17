@@ -6,11 +6,11 @@ from gameparts import Board
 
 pygame.init()
 
-CELL_SIZE = 100
+CELL_SIZE = 200
 BOARD_SIZE = 3
 WIDTH = HEIGHT = CELL_SIZE * BOARD_SIZE
 LINE_WIDTH = 15
-BG_COLOR = (28, 170, 156)
+BG_COLOR = (105, 200, 70)
 LINE_COLOR = (23, 145, 135)
 X_COLOR = (84, 84, 84)
 O_COLOR = (242, 235, 211)
